@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using BankingApp;
 
-Console.WriteLine("Banking App");
+Console.WriteLine("Banking App 2");
 System.Console.WriteLine("Choose Account Type \n 1. Saving \n 2. Current");
 IAccount account;
 switch (int.Parse(Console.ReadLine()))
