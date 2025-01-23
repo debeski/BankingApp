@@ -2,35 +2,36 @@ namespace BankingApp
 {
     public class CurrentAccount : IAccount
     {
-        double bal;
+        private double bal;
         public CurrentAccount()
         {
-            bal=200000;
+            bal = 200000; // Default balance
         }
 
         public double Balance => bal;
 
         public double Deposit(double amount)
         {
-            bal+=amount;
-            return bal;
+            bal += amount;
+            return bal;  // Optionally you can omit the return statement here
         }
 
         public double Withdraw(double amount)
         {
-            if(amount<=bal)
+            if (amount <= bal)
             {
-                if(bal-amount<10000)
+                if (bal - amount < 10000)
                 {
-                    System.Console.WriteLine("failed");
-                    System.Console.WriteLine("keep at leask 10k in account");
+                    System.Console.WriteLine("Failed");
+                    System.Console.WriteLine("Keep at least 10k in account");
                 }
-                else{
+                else
+                {
                     System.Console.WriteLine("Success");
-                    bal-=amount;
+                    bal -= amount;
                 }
             }
-            return bal;
+            return bal;  // You can choose to return only when needed
         }
     }
 }
