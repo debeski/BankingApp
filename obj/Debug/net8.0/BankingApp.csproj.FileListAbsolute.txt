@@ -1,0 +1,14 @@
+D:\jenny\Day4\BankingApp\bin\Debug\net8.0\BankingApp.exe
+D:\jenny\Day4\BankingApp\bin\Debug\net8.0\BankingApp.deps.json
+D:\jenny\Day4\BankingApp\bin\Debug\net8.0\BankingApp.runtimeconfig.json
+D:\jenny\Day4\BankingApp\bin\Debug\net8.0\BankingApp.dll
+D:\jenny\Day4\BankingApp\bin\Debug\net8.0\BankingApp.pdb
+D:\jenny\Day4\BankingApp\obj\Debug\net8.0\BankingApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\jenny\Day4\BankingApp\obj\Debug\net8.0\BankingApp.AssemblyInfoInputs.cache
+D:\jenny\Day4\BankingApp\obj\Debug\net8.0\BankingApp.AssemblyInfo.cs
+D:\jenny\Day4\BankingApp\obj\Debug\net8.0\BankingApp.csproj.CoreCompileInputs.cache
+D:\jenny\Day4\BankingApp\obj\Debug\net8.0\BankingApp.dll
+D:\jenny\Day4\BankingApp\obj\Debug\net8.0\refint\BankingApp.dll
+D:\jenny\Day4\BankingApp\obj\Debug\net8.0\BankingApp.pdb
+D:\jenny\Day4\BankingApp\obj\Debug\net8.0\BankingApp.genruntimeconfig.cache
+D:\jenny\Day4\BankingApp\obj\Debug\net8.0\ref\BankingApp.dll
